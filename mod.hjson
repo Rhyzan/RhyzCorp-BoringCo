@@ -1,0 +1,6 @@
+name: RhyzCorp-BoringCo
+displayName: "[#ff0000]Rhyz[#af0404]Corp[#ffffff]: Boring Co."
+author: "[#ff0000]Rhyzan"
+description: Upgraded production structures (drills, extractors, etc.).
+version: 0.1
+minGameVersion: 104
